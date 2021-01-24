@@ -62,6 +62,7 @@ public class IndexFragment extends Fragment {
             }
         });
         initView(root);
+        String type = "hello";
         return root;
     }
 
