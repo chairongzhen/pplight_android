@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_index">
+
+    <fragment
+        android:id="@+id/navigation_index"
+        android:name="com.polypite.pplight.ui.index.IndexFragment"
+        android:label="@string/menu_index"
+        tools:layout="@layout/fragment_index" />
+
+    <fragment
+        android:id="@+id/navigation_light"
+        android:name="com.polypite.pplight.ui.light.LightFragment"
+        android:label="@string/menu_light"
+        tools:layout="@layout/fragment_light" />
+
+    <fragment
+        android:id="@+id/navigation_machine"
+        android:name="com.polypite.pplight.ui.machine.MachineFragment"
+        android:label="@string/menu_machine"
+        tools:layout="@layout/fragment_machine" />
+
+    <fragment
+        android:id="@+id/navigation_setting"
+        android:name="com.polypite.pplight.ui.setting.SettingFragment"
+        android:label="@string/menu_setting"
+        tools:layout="@layout/fragment_setting" />
+</navigation>

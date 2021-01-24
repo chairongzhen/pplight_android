@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    <color name="purple_200">#FFBB86FC</color>-->
+<!--    <color name="purple_500">#FF6200EE</color>-->
+<!--    <color name="purple_700">#FF3700B3</color>-->
+<!--    <color name="teal_200">#FF03DAC5</color>-->
+<!--    <color name="teal_700">#FF018786</color>-->
+    <color name="black">#FF000000</color>
+    <color name="black_dark">#FF3D3D3D</color>
+    <color name="black_light">#FF767676</color>
+    <color name="black_white">#FFA7A7A7</color>
+
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="blue_light">#FF4D91B4</color>
+    <color name="blue_middle">#FF2277A2</color>
+    <color name="blue_dark">#FF1B5F82</color>
+
+    <color name="orange_light">#FFF79E44</color>
+    <color name="orange_middle">#FFF68717</color>
+    <color name="orange_dark">#FFC56C12</color>
+
+    <color name="teal_light">#FF7ECACB</color>
+    <color name="teal_middle">#FF5FBEBF</color>
+    <color name="teal_dark">#FF4C9899</color>
+
+    <color name="red_light">#FFE57C7C</color>
+    <color name="red_middle">#FFE05D5D</color>
+    <color name="red_dark">#FFB34A4A</color>
+
+    <color name="grape_light">#FF6D78A4</color>
+    <color name="grape_middle">#FF4A588E</color>
+    <color name="grape_dark">#FF3B4672</color>
+
+    <color name="yellow_light">#FFE8D078</color>
+    <color name="yellow_middle">#FFE4C557</color>
+    <color name="yellow_dark">#FFB69E46</color>
+
+    <color name="green_light">#FF81B28F</color>
+    <color name="green_middle">#FF63A074</color>
+    <color name="green_dark">#FF4F805D</color>
+
+    <color name="coffee_light">#FFA58B75</color>
+    <color name="coffee_middle">#FF906F54</color>
+    <color name="coffee_dark">#FF735943</color>
+
+    <color name="grey_light">#FFB0B9C2</color>
+    <color name="grey_middle">#FF9DA9B4</color>
+    <color name="grey_dark">#FF7E8790</color>
+
+    <color name="purple_light">#FF9D80B4</color>
+    <color name="purple_middle">#FF8662AC</color>
+    <color name="purple_dark">#FF6B4E8A</color>
+
+
+</resources>
